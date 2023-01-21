@@ -1,0 +1,180 @@
+C:\Users\mypc\Desktop\staj proje\traveltripproje\traveltripproje\bin\traveltripproje.dll.config
+C:\Users\mypc\Desktop\staj proje\traveltripproje\traveltripproje\bin\traveltripproje.dll
+C:\Users\mypc\Desktop\staj proje\traveltripproje\traveltripproje\bin\traveltripproje.pdb
+C:\Users\mypc\Desktop\staj proje\traveltripproje\traveltripproje\bin\roslyn\csc.exe
+C:\Users\mypc\Desktop\staj proje\traveltripproje\traveltripproje\bin\roslyn\csc.exe.config
+C:\Users\mypc\Desktop\staj proje\traveltripproje\traveltripproje\bin\roslyn\csc.rsp
+C:\Users\mypc\Desktop\staj proje\traveltripproje\traveltripproje\bin\roslyn\csi.exe
+C:\Users\mypc\Desktop\staj proje\traveltripproje\traveltripproje\bin\roslyn\csi.exe.config
+C:\Users\mypc\Desktop\staj proje\traveltripproje\traveltripproje\bin\roslyn\csi.rsp
+C:\Users\mypc\Desktop\staj proje\traveltripproje\traveltripproje\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\mypc\Desktop\staj proje\traveltripproje\traveltripproje\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mypc\Desktop\staj proje\traveltripproje\traveltripproje\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\mypc\Desktop\staj proje\traveltripproje\traveltripproje\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\mypc\Desktop\staj proje\traveltripproje\traveltripproje\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\mypc\Desktop\staj proje\traveltripproje\traveltripproje\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\mypc\Desktop\staj proje\traveltripproje\traveltripproje\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\mypc\Desktop\staj proje\traveltripproje\traveltripproje\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\mypc\Desktop\staj proje\traveltripproje\traveltripproje\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\mypc\Desktop\staj proje\traveltripproje\traveltripproje\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\mypc\Desktop\staj proje\traveltripproje\traveltripproje\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\mypc\Desktop\staj proje\traveltripproje\traveltripproje\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\mypc\Desktop\staj proje\traveltripproje\traveltripproje\bin\roslyn\System.AppContext.dll
+C:\Users\mypc\Desktop\staj proje\traveltripproje\traveltripproje\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\mypc\Desktop\staj proje\traveltripproje\traveltripproje\bin\roslyn\System.Console.dll
+C:\Users\mypc\Desktop\staj proje\traveltripproje\traveltripproje\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\mypc\Desktop\staj proje\traveltripproje\traveltripproje\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\mypc\Desktop\staj proje\traveltripproje\traveltripproje\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\mypc\Desktop\staj proje\traveltripproje\traveltripproje\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\mypc\Desktop\staj proje\traveltripproje\traveltripproje\bin\roslyn\System.IO.Compression.dll
+C:\Users\mypc\Desktop\staj proje\traveltripproje\traveltripproje\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\mypc\Desktop\staj proje\traveltripproje\traveltripproje\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\mypc\Desktop\staj proje\traveltripproje\traveltripproje\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\mypc\Desktop\staj proje\traveltripproje\traveltripproje\bin\roslyn\System.Net.Http.dll
+C:\Users\mypc\Desktop\staj proje\traveltripproje\traveltripproje\bin\roslyn\System.Net.Sockets.dll
+C:\Users\mypc\Desktop\staj proje\traveltripproje\traveltripproje\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\mypc\Desktop\staj proje\traveltripproje\traveltripproje\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\mypc\Desktop\staj proje\traveltripproje\traveltripproje\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\mypc\Desktop\staj proje\traveltripproje\traveltripproje\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\mypc\Desktop\staj proje\traveltripproje\traveltripproje\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\mypc\Desktop\staj proje\traveltripproje\traveltripproje\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\mypc\Desktop\staj proje\traveltripproje\traveltripproje\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\mypc\Desktop\staj proje\traveltripproje\traveltripproje\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\mypc\Desktop\staj proje\traveltripproje\traveltripproje\bin\roslyn\System.ValueTuple.dll
+C:\Users\mypc\Desktop\staj proje\traveltripproje\traveltripproje\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\mypc\Desktop\staj proje\traveltripproje\traveltripproje\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\mypc\Desktop\staj proje\traveltripproje\traveltripproje\bin\roslyn\System.Xml.XPath.dll
+C:\Users\mypc\Desktop\staj proje\traveltripproje\traveltripproje\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\mypc\Desktop\staj proje\traveltripproje\traveltripproje\bin\roslyn\vbc.exe
+C:\Users\mypc\Desktop\staj proje\traveltripproje\traveltripproje\bin\roslyn\vbc.exe.config
+C:\Users\mypc\Desktop\staj proje\traveltripproje\traveltripproje\bin\roslyn\vbc.rsp
+C:\Users\mypc\Desktop\staj proje\traveltripproje\traveltripproje\bin\roslyn\VBCSCompiler.exe
+C:\Users\mypc\Desktop\staj proje\traveltripproje\traveltripproje\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\mypc\Desktop\staj proje\traveltripproje\traveltripproje\bin\Antlr3.Runtime.dll
+C:\Users\mypc\Desktop\staj proje\traveltripproje\traveltripproje\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\mypc\Desktop\staj proje\traveltripproje\traveltripproje\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\mypc\Desktop\staj proje\traveltripproje\traveltripproje\bin\Newtonsoft.Json.dll
+C:\Users\mypc\Desktop\staj proje\traveltripproje\traveltripproje\bin\System.Web.Helpers.dll
+C:\Users\mypc\Desktop\staj proje\traveltripproje\traveltripproje\bin\System.Web.Mvc.dll
+C:\Users\mypc\Desktop\staj proje\traveltripproje\traveltripproje\bin\System.Web.Optimization.dll
+C:\Users\mypc\Desktop\staj proje\traveltripproje\traveltripproje\bin\System.Web.Razor.dll
+C:\Users\mypc\Desktop\staj proje\traveltripproje\traveltripproje\bin\System.Web.WebPages.Deployment.dll
+C:\Users\mypc\Desktop\staj proje\traveltripproje\traveltripproje\bin\System.Web.WebPages.dll
+C:\Users\mypc\Desktop\staj proje\traveltripproje\traveltripproje\bin\System.Web.WebPages.Razor.dll
+C:\Users\mypc\Desktop\staj proje\traveltripproje\traveltripproje\bin\WebGrease.dll
+C:\Users\mypc\Desktop\staj proje\traveltripproje\traveltripproje\bin\System.Web.Helpers.xml
+C:\Users\mypc\Desktop\staj proje\traveltripproje\traveltripproje\bin\System.Web.Mvc.xml
+C:\Users\mypc\Desktop\staj proje\traveltripproje\traveltripproje\bin\System.Web.Optimization.xml
+C:\Users\mypc\Desktop\staj proje\traveltripproje\traveltripproje\bin\System.Web.Razor.xml
+C:\Users\mypc\Desktop\staj proje\traveltripproje\traveltripproje\bin\System.Web.WebPages.xml
+C:\Users\mypc\Desktop\staj proje\traveltripproje\traveltripproje\bin\System.Web.WebPages.Deployment.xml
+C:\Users\mypc\Desktop\staj proje\traveltripproje\traveltripproje\bin\System.Web.WebPages.Razor.xml
+C:\Users\mypc\Desktop\staj proje\traveltripproje\traveltripproje\bin\Newtonsoft.Json.xml
+C:\Users\mypc\Desktop\staj proje\traveltripproje\traveltripproje\bin\Antlr3.Runtime.pdb
+C:\Users\mypc\Desktop\staj proje\traveltripproje\traveltripproje\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\mypc\Desktop\staj proje\traveltripproje\traveltripproje\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\mypc\Desktop\staj proje\traveltripproje\traveltripproje\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\mypc\Desktop\staj proje\traveltripproje\traveltripproje\bin\tr\System.Web.Optimization.resources.dll
+C:\Users\mypc\Desktop\staj proje\traveltripproje\traveltripproje\bin\tr\System.Web.Razor.resources.dll
+C:\Users\mypc\Desktop\staj proje\traveltripproje\traveltripproje\bin\tr\System.Web.WebPages.resources.dll
+C:\Users\mypc\Desktop\staj proje\traveltripproje\traveltripproje\bin\tr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\mypc\Desktop\staj proje\traveltripproje\traveltripproje\bin\tr\System.Web.WebPages.Razor.resources.dll
+C:\Users\mypc\Desktop\staj proje\traveltripproje\traveltripproje\obj\Debug\traveltripproje.csprojAssemblyReference.cache
+C:\Users\mypc\Desktop\staj proje\traveltripproje\traveltripproje\obj\Debug\traveltripproje.csproj.CoreCompileInputs.cache
+C:\Users\mypc\Desktop\staj proje\traveltripproje\traveltripproje\obj\Debug\traveltripproje.csproj.CopyComplete
+C:\Users\mypc\Desktop\staj proje\traveltripproje\traveltripproje\obj\Debug\traveltripproje.dll
+C:\Users\mypc\Desktop\staj proje\traveltripproje\traveltripproje\obj\Debug\traveltripproje.pdb
+C:\Users\mypc\Desktop\staj proje\traveltripproje\traveltripproje\bin\EntityFramework.dll
+C:\Users\mypc\Desktop\staj proje\traveltripproje\traveltripproje\bin\EntityFramework.SqlServer.dll
+C:\Users\mypc\Desktop\staj proje\traveltripproje\traveltripproje\bin\EntityFramework.xml
+C:\Users\mypc\Desktop\staj proje\traveltripproje\traveltripproje\bin\EntityFramework.SqlServer.xml
+D:\Okul\İş yeri Eğitimi\Staj Proje\traveltripproje\traveltripproje\bin\traveltripproje.dll.config
+D:\Okul\İş yeri Eğitimi\Staj Proje\traveltripproje\traveltripproje\bin\traveltripproje.dll
+D:\Okul\İş yeri Eğitimi\Staj Proje\traveltripproje\traveltripproje\bin\traveltripproje.pdb
+D:\Okul\İş yeri Eğitimi\Staj Proje\traveltripproje\traveltripproje\bin\roslyn\csc.exe
+D:\Okul\İş yeri Eğitimi\Staj Proje\traveltripproje\traveltripproje\bin\roslyn\csc.exe.config
+D:\Okul\İş yeri Eğitimi\Staj Proje\traveltripproje\traveltripproje\bin\roslyn\csc.rsp
+D:\Okul\İş yeri Eğitimi\Staj Proje\traveltripproje\traveltripproje\bin\roslyn\csi.exe
+D:\Okul\İş yeri Eğitimi\Staj Proje\traveltripproje\traveltripproje\bin\roslyn\csi.exe.config
+D:\Okul\İş yeri Eğitimi\Staj Proje\traveltripproje\traveltripproje\bin\roslyn\csi.rsp
+D:\Okul\İş yeri Eğitimi\Staj Proje\traveltripproje\traveltripproje\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Okul\İş yeri Eğitimi\Staj Proje\traveltripproje\traveltripproje\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Okul\İş yeri Eğitimi\Staj Proje\traveltripproje\traveltripproje\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Okul\İş yeri Eğitimi\Staj Proje\traveltripproje\traveltripproje\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Okul\İş yeri Eğitimi\Staj Proje\traveltripproje\traveltripproje\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Okul\İş yeri Eğitimi\Staj Proje\traveltripproje\traveltripproje\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Okul\İş yeri Eğitimi\Staj Proje\traveltripproje\traveltripproje\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Okul\İş yeri Eğitimi\Staj Proje\traveltripproje\traveltripproje\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Okul\İş yeri Eğitimi\Staj Proje\traveltripproje\traveltripproje\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Okul\İş yeri Eğitimi\Staj Proje\traveltripproje\traveltripproje\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Okul\İş yeri Eğitimi\Staj Proje\traveltripproje\traveltripproje\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Okul\İş yeri Eğitimi\Staj Proje\traveltripproje\traveltripproje\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Okul\İş yeri Eğitimi\Staj Proje\traveltripproje\traveltripproje\bin\roslyn\System.AppContext.dll
+D:\Okul\İş yeri Eğitimi\Staj Proje\traveltripproje\traveltripproje\bin\roslyn\System.Collections.Immutable.dll
+D:\Okul\İş yeri Eğitimi\Staj Proje\traveltripproje\traveltripproje\bin\roslyn\System.Console.dll
+D:\Okul\İş yeri Eğitimi\Staj Proje\traveltripproje\traveltripproje\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Okul\İş yeri Eğitimi\Staj Proje\traveltripproje\traveltripproje\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Okul\İş yeri Eğitimi\Staj Proje\traveltripproje\traveltripproje\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Okul\İş yeri Eğitimi\Staj Proje\traveltripproje\traveltripproje\bin\roslyn\System.Globalization.Calendars.dll
+D:\Okul\İş yeri Eğitimi\Staj Proje\traveltripproje\traveltripproje\bin\roslyn\System.IO.Compression.dll
+D:\Okul\İş yeri Eğitimi\Staj Proje\traveltripproje\traveltripproje\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Okul\İş yeri Eğitimi\Staj Proje\traveltripproje\traveltripproje\bin\roslyn\System.IO.FileSystem.dll
+D:\Okul\İş yeri Eğitimi\Staj Proje\traveltripproje\traveltripproje\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Okul\İş yeri Eğitimi\Staj Proje\traveltripproje\traveltripproje\bin\roslyn\System.Net.Http.dll
+D:\Okul\İş yeri Eğitimi\Staj Proje\traveltripproje\traveltripproje\bin\roslyn\System.Net.Sockets.dll
+D:\Okul\İş yeri Eğitimi\Staj Proje\traveltripproje\traveltripproje\bin\roslyn\System.Reflection.Metadata.dll
+D:\Okul\İş yeri Eğitimi\Staj Proje\traveltripproje\traveltripproje\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Okul\İş yeri Eğitimi\Staj Proje\traveltripproje\traveltripproje\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Okul\İş yeri Eğitimi\Staj Proje\traveltripproje\traveltripproje\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Okul\İş yeri Eğitimi\Staj Proje\traveltripproje\traveltripproje\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Okul\İş yeri Eğitimi\Staj Proje\traveltripproje\traveltripproje\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Okul\İş yeri Eğitimi\Staj Proje\traveltripproje\traveltripproje\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Okul\İş yeri Eğitimi\Staj Proje\traveltripproje\traveltripproje\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Okul\İş yeri Eğitimi\Staj Proje\traveltripproje\traveltripproje\bin\roslyn\System.ValueTuple.dll
+D:\Okul\İş yeri Eğitimi\Staj Proje\traveltripproje\traveltripproje\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Okul\İş yeri Eğitimi\Staj Proje\traveltripproje\traveltripproje\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Okul\İş yeri Eğitimi\Staj Proje\traveltripproje\traveltripproje\bin\roslyn\System.Xml.XPath.dll
+D:\Okul\İş yeri Eğitimi\Staj Proje\traveltripproje\traveltripproje\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Okul\İş yeri Eğitimi\Staj Proje\traveltripproje\traveltripproje\bin\roslyn\vbc.exe
+D:\Okul\İş yeri Eğitimi\Staj Proje\traveltripproje\traveltripproje\bin\roslyn\vbc.exe.config
+D:\Okul\İş yeri Eğitimi\Staj Proje\traveltripproje\traveltripproje\bin\roslyn\vbc.rsp
+D:\Okul\İş yeri Eğitimi\Staj Proje\traveltripproje\traveltripproje\bin\roslyn\VBCSCompiler.exe
+D:\Okul\İş yeri Eğitimi\Staj Proje\traveltripproje\traveltripproje\bin\roslyn\VBCSCompiler.exe.config
+D:\Okul\İş yeri Eğitimi\Staj Proje\traveltripproje\traveltripproje\bin\Antlr3.Runtime.dll
+D:\Okul\İş yeri Eğitimi\Staj Proje\traveltripproje\traveltripproje\bin\EntityFramework.dll
+D:\Okul\İş yeri Eğitimi\Staj Proje\traveltripproje\traveltripproje\bin\EntityFramework.SqlServer.dll
+D:\Okul\İş yeri Eğitimi\Staj Proje\traveltripproje\traveltripproje\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Okul\İş yeri Eğitimi\Staj Proje\traveltripproje\traveltripproje\bin\Microsoft.Web.Infrastructure.dll
+D:\Okul\İş yeri Eğitimi\Staj Proje\traveltripproje\traveltripproje\bin\Newtonsoft.Json.dll
+D:\Okul\İş yeri Eğitimi\Staj Proje\traveltripproje\traveltripproje\bin\System.Web.Helpers.dll
+D:\Okul\İş yeri Eğitimi\Staj Proje\traveltripproje\traveltripproje\bin\System.Web.Mvc.dll
+D:\Okul\İş yeri Eğitimi\Staj Proje\traveltripproje\traveltripproje\bin\System.Web.Optimization.dll
+D:\Okul\İş yeri Eğitimi\Staj Proje\traveltripproje\traveltripproje\bin\System.Web.Razor.dll
+D:\Okul\İş yeri Eğitimi\Staj Proje\traveltripproje\traveltripproje\bin\System.Web.WebPages.Deployment.dll
+D:\Okul\İş yeri Eğitimi\Staj Proje\traveltripproje\traveltripproje\bin\System.Web.WebPages.dll
+D:\Okul\İş yeri Eğitimi\Staj Proje\traveltripproje\traveltripproje\bin\System.Web.WebPages.Razor.dll
+D:\Okul\İş yeri Eğitimi\Staj Proje\traveltripproje\traveltripproje\bin\WebGrease.dll
+D:\Okul\İş yeri Eğitimi\Staj Proje\traveltripproje\traveltripproje\bin\EntityFramework.xml
+D:\Okul\İş yeri Eğitimi\Staj Proje\traveltripproje\traveltripproje\bin\EntityFramework.SqlServer.xml
+D:\Okul\İş yeri Eğitimi\Staj Proje\traveltripproje\traveltripproje\bin\System.Web.Helpers.xml
+D:\Okul\İş yeri Eğitimi\Staj Proje\traveltripproje\traveltripproje\bin\System.Web.Mvc.xml
+D:\Okul\İş yeri Eğitimi\Staj Proje\traveltripproje\traveltripproje\bin\System.Web.Optimization.xml
+D:\Okul\İş yeri Eğitimi\Staj Proje\traveltripproje\traveltripproje\bin\System.Web.Razor.xml
+D:\Okul\İş yeri Eğitimi\Staj Proje\traveltripproje\traveltripproje\bin\System.Web.WebPages.xml
+D:\Okul\İş yeri Eğitimi\Staj Proje\traveltripproje\traveltripproje\bin\System.Web.WebPages.Deployment.xml
+D:\Okul\İş yeri Eğitimi\Staj Proje\traveltripproje\traveltripproje\bin\System.Web.WebPages.Razor.xml
+D:\Okul\İş yeri Eğitimi\Staj Proje\traveltripproje\traveltripproje\bin\Newtonsoft.Json.xml
+D:\Okul\İş yeri Eğitimi\Staj Proje\traveltripproje\traveltripproje\bin\Antlr3.Runtime.pdb
+D:\Okul\İş yeri Eğitimi\Staj Proje\traveltripproje\traveltripproje\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Okul\İş yeri Eğitimi\Staj Proje\traveltripproje\traveltripproje\bin\tr\System.Web.Helpers.resources.dll
+D:\Okul\İş yeri Eğitimi\Staj Proje\traveltripproje\traveltripproje\bin\tr\System.Web.Mvc.resources.dll
+D:\Okul\İş yeri Eğitimi\Staj Proje\traveltripproje\traveltripproje\bin\tr\System.Web.Optimization.resources.dll
+D:\Okul\İş yeri Eğitimi\Staj Proje\traveltripproje\traveltripproje\bin\tr\System.Web.Razor.resources.dll
+D:\Okul\İş yeri Eğitimi\Staj Proje\traveltripproje\traveltripproje\bin\tr\System.Web.WebPages.resources.dll
+D:\Okul\İş yeri Eğitimi\Staj Proje\traveltripproje\traveltripproje\bin\tr\System.Web.WebPages.Deployment.resources.dll
+D:\Okul\İş yeri Eğitimi\Staj Proje\traveltripproje\traveltripproje\bin\tr\System.Web.WebPages.Razor.resources.dll
+D:\Okul\İş yeri Eğitimi\Staj Proje\traveltripproje\traveltripproje\obj\Debug\traveltripproje.csproj.AssemblyReference.cache
+D:\Okul\İş yeri Eğitimi\Staj Proje\traveltripproje\traveltripproje\obj\Debug\traveltripproje.csproj.CoreCompileInputs.cache
+D:\Okul\İş yeri Eğitimi\Staj Proje\traveltripproje\traveltripproje\obj\Debug\traveltripproje.csproj.CopyComplete
+D:\Okul\İş yeri Eğitimi\Staj Proje\traveltripproje\traveltripproje\obj\Debug\traveltripproje.dll
+D:\Okul\İş yeri Eğitimi\Staj Proje\traveltripproje\traveltripproje\obj\Debug\traveltripproje.pdb

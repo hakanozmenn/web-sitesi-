@@ -1,0 +1,24 @@
+﻿@model traveltripproje.Models.Siniflar.blog
+@{
+    ViewBag.Title = "yeniblog";
+    Layout = "~/Views/Shared/_adminlayout.cshtml";
+}
+
+<h2>yeni blog ekleme</h2>
+<br/>
+<form class="form-group" method="post">
+    @Html.LabelFor(x => x.baslik)
+    @Html.TextBoxFor(x => x.baslik, new { @class = "form-control" })
+    <br />
+    @Html.LabelFor(x => x.tarih)
+    @Html.TextBoxFor(x => x.tarih, new { @class = "form-control" })
+    <br />
+    @Html.LabelFor(x => x.blogimage)
+    @Html.TextBoxFor(x => x.blogimage, new { @class = "form-control" })
+    <br />
+    @Html.LabelFor(x => x.aciklama)
+    @Html.TextAreaFor(x => x.aciklama, new { @class = "form-control" })
+    <br />
+    <button class="btn btn-primary">Blog Ekle</button>
+</form>
+
